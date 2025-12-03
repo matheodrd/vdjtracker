@@ -1,4 +1,4 @@
-* [ ] Watch and read file `nowplaying.txt`
+* [x] Watch and read file `nowplaying.txt`
   * `"%artist% - %title%"` format
 * [ ] Broker SSE
 * [ ] HTTP server
